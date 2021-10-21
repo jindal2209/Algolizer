@@ -1,0 +1,8 @@
+.header {
+	background-color: var(--DARK_BACKGROUND);
+	color: var(--LIGHT_BACKGROUND);
+	text-decoration: underline;
+	box-shadow: 0 0 5px white;
+	font-size: 25px;
+	padding: 10px;
+}
