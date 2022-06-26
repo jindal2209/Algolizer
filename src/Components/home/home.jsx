@@ -63,6 +63,11 @@ export function Home() {
 					text='An application that allows consumers to split expenses with friends similar to split-wise. Implemented using heaps. Implemented heap data structure in java-script.'
 				/>
 				<Box
+					title='URL Shortener (Hashing)'
+					link='http://bitny.herokuapp.com/'
+					text='URL shortener using hashing'
+				/>
+				<Box
 					title='..................................'
 					link='https://in.linkedin.com/in/Shubham-jindal-116431193'
 					text='More will be added as soon as I get some more ideas. Meanwhile you can view my profile. Will be happy to collaborate :-)'
