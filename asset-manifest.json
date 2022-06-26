@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Algolizer/static/css/main.e7c1ef1d.chunk.css",
-    "main.js": "/Algolizer/static/js/main.ea37a2af.chunk.js",
-    "main.js.map": "/Algolizer/static/js/main.ea37a2af.chunk.js.map",
+    "main.css": "/Algolizer/static/css/main.80e19093.chunk.css",
+    "main.js": "/Algolizer/static/js/main.976a6b5e.chunk.js",
+    "main.js.map": "/Algolizer/static/js/main.976a6b5e.chunk.js.map",
     "runtime-main.js": "/Algolizer/static/js/runtime-main.93004c4b.js",
     "runtime-main.js.map": "/Algolizer/static/js/runtime-main.93004c4b.js.map",
     "static/js/2.296e848f.chunk.js": "/Algolizer/static/js/2.296e848f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.601e59c5.chunk.js": "/Algolizer/static/js/3.601e59c5.chunk.js",
     "static/js/3.601e59c5.chunk.js.map": "/Algolizer/static/js/3.601e59c5.chunk.js.map",
     "index.html": "/Algolizer/index.html",
-    "static/css/main.e7c1ef1d.chunk.css.map": "/Algolizer/static/css/main.e7c1ef1d.chunk.css.map",
+    "static/css/main.80e19093.chunk.css.map": "/Algolizer/static/css/main.80e19093.chunk.css.map",
     "static/js/2.296e848f.chunk.js.LICENSE.txt": "/Algolizer/static/js/2.296e848f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93004c4b.js",
     "static/js/2.296e848f.chunk.js",
-    "static/css/main.e7c1ef1d.chunk.css",
-    "static/js/main.ea37a2af.chunk.js"
+    "static/css/main.80e19093.chunk.css",
+    "static/js/main.976a6b5e.chunk.js"
   ]
 }
